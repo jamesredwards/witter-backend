@@ -1643,6 +1643,7 @@ dependencies = [
  "serde",
  "serde_json",
  "sqlx",
+ "thiserror",
  "tide",
  "uuid",
 ]
